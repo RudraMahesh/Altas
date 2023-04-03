@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.346b0907.css",
+    "main.js": "/static/js/main.24ea50c8.js",
+    "static/js/787.46493d11.chunk.js": "/static/js/787.46493d11.chunk.js",
+    "static/media/faq.jpg": "/static/media/faq.8e73748be9d860a4a9d7.jpg",
+    "static/media/blog2.webp": "/static/media/blog2.8b208ebcf06dab288d39.webp",
+    "static/media/blog3.webp": "/static/media/blog3.a2344242c4ef3a2dcf28.webp",
+    "static/media/collection.webp": "/static/media/collection.51119f73d4afb884f211.webp",
+    "static/media/contact.webp": "/static/media/contact.cfee4c0cb94d9e0279ec.webp",
+    "static/media/car3.jpg": "/static/media/car3.b8bde49f6f9d0fa2cc64.jpg",
+    "static/media/feature.webp": "/static/media/feature.8b1010ebea716b5ed4ff.webp",
+    "static/media/carousel1.webp": "/static/media/carousel1.38f598094bf09993d1c2.webp",
+    "static/media/blog1.webp": "/static/media/blog1.b2f25ed7b725b80e0285.webp",
+    "static/media/car1.jpg": "/static/media/car1.f054f4783ff35e2df72c.jpg",
+    "static/media/blog.webp": "/static/media/blog.051eb6fda54435578778.webp",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.346b0907.css.map": "/static/css/main.346b0907.css.map",
+    "main.24ea50c8.js.map": "/static/js/main.24ea50c8.js.map",
+    "787.46493d11.chunk.js.map": "/static/js/787.46493d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.346b0907.css",
+    "static/js/main.24ea50c8.js"
+  ]
+}
